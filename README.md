@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashish Makadiya</h1>
 
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Python</h3>
+<h3 align="center">
+Data Analytics | SQL | Excel | Python
+</h3>
 
 <p align="center">
-Transforming data into meaningful insights through analysis and visualization.
-</p>
+I am a Computer Science Engineering graduate focused on building a career in Data Analytics, with a growing interest in Data Science and Artificial Intelligence. I enjoy working with real-world datasets to understand business problems, analyze patterns, and develop practical solutions using data. My work involves building projects with Excel, SQL, Python, Power BI, and Tableau while continuously improving my analytical, technical, and problem-solving skills.</p>
+
+<p align="center">
+This GitHub profile serves as my project portfolio, where I document the work I build throughout my learning journey. Each project follows a structured workflow that includes data collection, cleaning, analysis, visualization, and business interpretation. As I continue expanding my skills, this portfolio will also include projects in Data Science, Machine Learning, and AI, reflecting my progress toward becoming a well-rounded data professional.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashish1125&style=for-the-badge">
@@ -20,8 +24,28 @@ Transforming data into meaningful insights through analysis and visualization.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashish-makadiya-7a1398240/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=plastic\&logo=medium\&logoColor=white)](https://medium.com/@makadiyaashish518)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-makadiya-7a1398240/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://public.tableau.com/app/profile/ashish.makadiya/vizzes" target="_blank">
+    <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"
+       alt="Tableau Public"
+       height="28">
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/ashish251104" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/makadiyaashish51" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" />
+  </a>
+</p>
 
 ## Skills & Tools
 
