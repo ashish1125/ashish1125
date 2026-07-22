@@ -38,7 +38,7 @@ This GitHub profile serves as my project portfolio, where I document the work I 
 
 ## Skills & Tools
 
-<p align="left">
+<p align="center">
   <img title="Excel" src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" width="40"/>&nbsp;
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
   <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;
