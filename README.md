@@ -14,14 +14,6 @@ This GitHub profile serves as my project portfolio, where I document the work I 
   <img src="https://komarev.com/ghpvc/?username=ashish1125&style=for-the-badge">
 </p>
 
-## About Me
-
-* 🎓 Computer Science Engineering Graduate
-* 📊 Interested in Data Analytics, Data Science, and AI
-* 📈 Building projects focused on business insights and data-driven decision making
-* 📋 Experience with Excel dashboards, data analysis, and reporting
-* 🎯 Goal: Data Analyst → Data Scientist → AI Professional
-
 ## Connect With Me
 
 <p align="center">
@@ -57,8 +49,15 @@ This GitHub profile serves as my project portfolio, where I document the work I 
   <img title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>&nbsp;
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-* ☕ Coffee Sales Dashboard
-* 🚲 Bike Sales Dashboard
-* 🏪 Retail Sales Dashboard
+| Project | Description |
+|---------|-------------|
+| 🚲 Bike Sales Dashboard | Interactive Excel dashboard analyzing customer purchasing behavior. |
+| ☕ Coffee Sales Dashboard | Sales dashboard with KPIs, trends, and customer insights. |
+| 🏪 Retail Sales Dashboard | Retail performance dashboard using Excel. |
+| 🎬 Netflix Content Analysis | Exploratory data analysis of Netflix titles using Python. |
+
+## 📈 Contribution Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish1125&theme=github-compact)](https://github.com/ashish1125)
