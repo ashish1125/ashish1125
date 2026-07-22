@@ -27,24 +27,21 @@ This GitHub profile serves as my project portfolio, where I document the work I 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-makadiya-7a1398240/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://public.tableau.com/app/profile/ashish.makadiya/vizzes" target="_blank">
     <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg"
        alt="Tableau Public"
        height="28">
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.kaggle.com/ashish251104" target="_blank">
     <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/makadiyaashish51" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Skills & Tools
