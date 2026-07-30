@@ -39,15 +39,17 @@ This GitHub profile serves as my project portfolio, where I document the work I 
 ## Skills & Tools
 
 <p align="center">
-  <img title="Excel" src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" width="40"/>&nbsp;
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
-  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>&nbsp;
-  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>&nbsp;
-  <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>&nbsp;
+  <img title="Excel" src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" width="40"/>&nbsp;&nbsp;
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;&nbsp;
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;&nbsp;
+  <img title="Power BI" src="https://cdn3d.iconscout.com/3d/free/thumb/free-microsoft-power-bi-3d-icon-png-download-9395327.png" width="40"/>&nbsp;&nbsp;
+  <img title="Tableau" src="https://valota.live/wp-content/uploads/3-tableau-512.png" width="40">&nbsp;&nbsp;
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;&nbsp;
+  <img title="GitHub" src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/>&nbsp;&nbsp;
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;
+  <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>&nbsp;&nbsp;
   <img title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>&nbsp;
-</p>
+</p>  
 
 ## 🚀 Featured Projects
 
