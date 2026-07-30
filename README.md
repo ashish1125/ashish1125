@@ -57,6 +57,7 @@ This GitHub profile serves as my project portfolio, where I document the work I 
 | ☕ Coffee Sales Dashboard | Sales dashboard with KPIs, trends, and customer insights. |
 | 🏪 Retail Sales Dashboard | Retail performance dashboard using Excel. |
 | 🎬 Netflix Content Analysis | Exploratory data analysis of Netflix titles using Python. |
+| 🛒 Sales Dashboard Using Power BI | Interactive Power BI dashboard for sales and profitability analysis. |
 
 ## 📈 Contribution Graph
 
